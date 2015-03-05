@@ -1,1 +1,1 @@
-# sass-mixins
+# Some Sass mixins
